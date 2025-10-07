@@ -2,7 +2,6 @@
 import { useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import useBreathStore from "../store/useBreathStore";
-import "../styles/global.css";
 
 export default function Home() {
     const { holding, time, sessionCount, totalSessions, averageTime, bestTime, lastTime, toggleHolding, increaseTime, setTime, theme, setTheme } = useBreathStore();
