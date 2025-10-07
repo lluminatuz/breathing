@@ -62,12 +62,14 @@ Qualquer provedor compatível com Next.js funciona bem. Recomenda-se Vercel:
 - Faça login na Vercel e importe o repositório.
 - A Vercel detecta Next.js automaticamente e cria o build.
 
+
 Consulte a documentação oficial do Next.js para detalhes de deploy: [`nextjs.org/docs`](https://nextjs.org/docs/app/building-your-application/deploying).
 
 ### Personalização
 - Ajuste estilos em `src/styles/global.css`.
 - Estenda o estado/ações em `src/store/useBreathStore.js` (por exemplo, reset de estatísticas, metas de tempo, persistência em `localStorage`).
 - Modifique a UI/fluxo em `src/pages/index.js`.
+
 
 ### Licença
 Este projeto é disponibilizado sem licença explícita. Defina a licença desejada (por exemplo, MIT) conforme sua necessidade.
