@@ -8,7 +8,6 @@ Aplicativo simples em Next.js para treinar respiração e apneia. Ele exibe uma 
 - **Estatísticas**: última sessão, média, melhor tempo, sessões concluídas.
 - **Tema claro/escuro**: alternância rápida pelo botão no topo direito.
 - **Atalho de teclado**: tecla **Espaço** para iniciar/encerrar.
-- **Sem sons**: modo silencioso por padrão.
 
 ### Tecnologias
 - **Next.js 15** e **React 19**
